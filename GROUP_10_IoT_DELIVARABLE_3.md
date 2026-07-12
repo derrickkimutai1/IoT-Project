@@ -117,3 +117,6 @@ The Arduino IDE Serial Monitor was used to verify the sensor readings during tes
 Challenges
 
 During the development of the **physical prototype**, the OLED display and MQ-5 gas sensor did not function as expected. The OLED display failed to show sensor readings consistently, while the MQ-5 sensor did not produce stable or reliable gas readings. Several troubleshooting steps were attempted, including checking the circuit wiring, verifying power supply connections, confirming the GPIO pin assignments, and reviewing the program code. Despite these efforts, the issues could not be fully resolved within the available development time. To demonstrate the intended system functionality, the Wokwi simulation was used to validate the embedded application logic, while the physical prototype remained useful for demonstrating the hardware setup. Future work will involve replacing suspected faulty components and retesting the circuit to achieve full functionality.
+## Groupwork Evidence
+
+![Groupwork Evidence](GROUP_10_IoT_DELIVARABLE_3_assets/Groupwork%20Evidence.jpeg)
